@@ -51,6 +51,9 @@ Useful information for the target audience
 Aesthetically pleasing dashboards that keeps them engaged
 
 It was important to not overwhelm the audience with too much data, but also not to bore the audience with redundant or repetitive information. After building a diverse set of visuals to convey our information to the audience, we grouped them together into dashboards based on categories such as cost of living, career progression, diversity and equity, and salary, among others.
+![1681110731620](https://github.com/PraneethVoruganti/Analytics-Job-Guide-2022/assets/130254842/b4cf8d67-fe20-4811-a99b-5ae693f10235)
+![1681110730842](https://github.com/PraneethVoruganti/Analytics-Job-Guide-2022/assets/130254842/9ede90af-3a16-458a-a4c7-6214888ba0b1)
+
 
 Lastly, we inserted the dashboards in a logical order onto our storyboard. To do this we made sure to put dashboards that complimented each other close to each other on the storyboard. 
 
