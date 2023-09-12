@@ -1,7 +1,7 @@
 # Analytics-Job-Guide-2022
 ___________________________________________________________________________________________________________________________
 
-INTRODUCTION
+# INTRODUCTION
 
 Every year millions of students complete their educational journey and enter the work force eager to make an impact in their field. One of the greatest challenges of this is finding the right place to begin or continue this journey. With the seemingly unlimited amount of position, company and location options, graduates can become overwhelmed trying to make the right choice. Students must consider the salary, career progression, corporate values, and price of living, among other things, for each job they apply to. 	
 	
@@ -16,7 +16,7 @@ Learn which locations have the highest average salaries, understand the huge imp
 Using this information, students can apply, interview, and accept offers with the peace of mind knowing they made the correct, informed choice.  Having this peace of mind will allow students to focus on completing their studies without having to deal with as much of the added stress and uncertainty that comes with making a big career choice. 
 
 
-DATASETS
+# DATASETS
 
 We sourced our data from Levels.fyi through the Kaggle repository. We acquired the data relevant to the jobs available in the Analytics field for the past three years and performed the exploratory data analysis (EDA). According to our requirements – 
 
@@ -39,7 +39,7 @@ The parent data was scraped off LEVELS.FYI – which is a repository of validate
 The data included the job profile, company, location, details of compensation (Total, Base), Experience Level of the employee, Remote Ratio for the firm, Year of Data
 
 
-METHODOLOGY
+# METHODOLOGY
 
 In this project we sought to find sufficient data on the analytics job market, so that we can discover which areas, geographically, career and corporate, would be best suited for graduating analytic focused students. We gathered data from various sites, such as Kaggle, government sites, and job sites. After finalizing our first few datasets, we analyzed them to make sure they were sufficient, and relevant enough to use for our project. This included making sure the data was recent, that there was enough data, and that the data as relevant and useful for our target audience. As our story developed, we kept appending onto our initial data repository to have a holistic view of the Analytics Job Market.
 	
@@ -58,3 +58,7 @@ It was important to not overwhelm the audience with too much data, but also not 
 Lastly, we inserted the dashboards in a logical order onto our storyboard. To do this we made sure to put dashboards that complimented each other close to each other on the storyboard. 
 
 We also inserted brain breaks, not only to avoid a data dump in front of the audience, but also to effectively transition to a new topic in our presentation. 
+
+
+# Tools 
+Google Collab, Excel, Tableau
